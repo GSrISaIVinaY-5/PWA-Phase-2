@@ -1,0 +1,627 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+ <title>Free Vector Icons Sets ・ Those Icons</title>
+ <base href="https://thoseicons.com/" />
+ <meta charset="UTF-8" />
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name="description" content="Download free website icons, made with love and precision by Those Icons. Pixel perfect icons for a crisp and sharp view on all device screens.">
+ <meta name="keywords" content="">
+ <meta name="theme-color" content="#f2f2f2">
+ <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+ <link rel="stylesheet" href="assets/css/app2.css">
+
+ <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P9MFBX8');</script>
+ <!-- End Google Tag Manager -->
+</head>
+<body id="stick" onload="setTimeout(popin, 2000)">
+<div class="sticky-holder" data-sticky-container>
+	<div class="sticky shadow" data-sticky data-anchor="stick" data-sticky-on="small" data-margin-top="0">
+		<div class="top-bar nav-bar">
+			<div class="top-bar-left">
+				<div class="logo-sticky">
+					<a href="index"><img class="logo" src="assets/img/thoseiconslogo.svg" alt="Those Icons" /></a>
+				</div>
+			</div>
+			<div class="top-bar-right flex-container align-middle">
+				<div class="" data-toggle="offCanvas">
+					<i class="ti-menu but"></i>
+				</div>
+			</div>
+		</div>
+	</div>	
+</div>
+<!-- Google Tag Manager (noscript) -->  
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9MFBX8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Navigation -->
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas>
+	<div class="grid-x grid-padding-x text-left" style="height: 100%;">
+		<nav id="nav" class="menu-holder">
+  	  <ul class="vertical menu">
+		  <li>
+			<a href="/index" class="">
+				<div class="grid-x grid-padding-x align-middle ">
+					<i class="ti-Color"></i>
+					<span>Products</span>
+				</div>
+			</a>
+		  </li>	  
+  	      <li>
+  	        <a href="freebies" class="">
+  	         	<div class="grid-x grid-padding-x align-middle ">
+  	        	<i class="ti-Freebies"></i>
+  	        	<span>Freebies</span>
+  	        	</div>
+  	        </a>
+  	      </li>
+  	      <li>
+  	        <a href="license" class="">
+  	         	<div class="grid-x grid-padding-x align-middle ">
+  	        	<i class="ti-License"></i>
+  	        	<span>Licenses</span>
+  	        	</div>
+  	        </a>
+  	      </li>
+  	      <li>
+  	        <a href="affiliate" class="">
+  	         	<div class="grid-x grid-padding-x align-middle ">
+  	        	<i class="ti-Affiliate"></i>
+  	        	<span>Affiliate</span>
+  	        	</div>
+  	        </a>
+  	      </li>
+		  <li>
+			<a href="mailto:pocike88@gmail.com?Subject=Hello%20Those%20Icons" class="">
+				<div class="grid-x grid-padding-x align-middle ">
+				<i class="ti-Contact"></i>
+				<span>Contact Us</span>
+				</div>
+			</a>
+		  </li>
+  	   </ul>
+  	</nav>
+		<ul class="social menu align-center align-self-bottom">
+			<li>
+				<a href="https://dribbble.com/thoseicons" target="_blank">
+					<i class="ti-Dribbble social-icon" style="color: #e94988;"></i>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.facebook.com/thoseicons" target="_blank">
+					<i class="ti-Facebook social-icon" style="color: #3b5998;"></i>
+				</a>
+			</li>
+			<li>
+				<a href="https://twitter.com/thoseicons1" target="_blank">
+					<i class="ti-Twitter social-icon" style="color: #1da1f2;"></i>
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+
+<!-- Content - Off Canvas -->
+<div class="off-canvas-content" data-off-canvas-content data-transition="push">
+<div id="wr"> 
+		<div class="wh">
+			<div class="grid-x freetext">
+				<div class="small-10 medium-5 cell margin-top margin-left small-offset-1">
+					<h2 style="color: red;"><strong>120 Free Christmas Icons</strong></h2><br>
+					<p>Free Christmas icon collection to impress your audiance this season. They are made in pixel perfect sizes and position for sharp view. Done in <strong>4 difrent styles</strong> to fit your brand: <strong>line, glyph, colored outline, flat style.</strong> Use them in any of your project under <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC with Attribution License</a> terms.</p>
+					<br>
+					<div class="link"><a href="/freebies#popupx">DOWNLOAD FREE</a></div>
+						<!-- Popup -->
+<div id="popupx" class="overlay">
+							<div class="popup">
+								<a class="close" href="/freebies#"><span class="ti-close" style="font-family: 'ThoseIcons'; color: #303030;"></span></a>
+								<div class="content">
+									<h4>Unlock Download</h4><br>
+									<style>
+									div#sib_embed_signup .sib-container #company-name,div#sib_embed_signup .sib-container .button,div#sib_embed_signup .sib-container .description,div#sib_embed_signup .sib-container .fake-label,div#sib_embed_signup .sib-container .forms-builder-footer,div#sib_embed_signup .sib-container .row,div#sib_embed_signup .sib-container h1{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}div#sib_embed_signup .needsfilled input{border-color:#B94A48!important;color:#B94A48!important}div#sib_embed_signup .needsfilled{color:#B94A48!important}div#sib_embed_signup div.message_area{position:relative;padding:10px 30px 10px 10px;margin:0 0 10px;font-size:14px;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;box-sizing:border-box}div#sib_embed_signup div.message_area button.close{position:absolute;right:8px;top:8px;color:inherit;background:0 0;border:0;padding:0;-webkit-appearance:none;cursor:pointer;font-weight:700;font-size:14px}.tipicon{cursor:pointer;padding:3px 7px;font-size:12px;font-weight:700;line-height:1.2;color:#fff;text-align:center;vertical-align:baseline;background-color:#999;border-radius:10px;text-decoration:none}.tooltip{display:inline;position:absolute;left:97%}.tooltip:hover:after{background:#333;background:rgba(0,0,0,.8);border-radius:5px;color:#fff;content:attr(data-title);right:-2px;bottom:26px;padding:5px 15px;position:absolute;z-index:98;width:220px}.tooltip_small:hover:after{padding:5px;width:150px}.tooltip:hover:before{border:solid;border-color:#333 transparent;border-width:6px 6px 0;bottom:20px;content:"";left:1px;position:absolute;z-index:99}.sib-dropdown-menu.flag-icon{display:none;height:100px;overflow-x:hidden;min-width:160px;font-size:13px;list-style:none;padding-left:14px;border:1px solid rgba(0,0,0,.15);background:#fff;border-radius:4px;margin-top:10px}.sib-dropdown-menu.flag-icon li a{display:block;white-space:nowrap;text-decoration:none;color:rgba(0,0,0,.87);box-shadow:none}.icon-arrow{display:inline-block;width:0;height:0;margin-left:2px;margin-top:5px;border-top:4px dashed;border-right:4px solid transparent;border-left:4px solid transparent;vertical-align:text-top}.sib-dropdown-toggle.country-flg{display:inline-block;font-size:13px}div#sib_embed_signup h1.title{font-size:45px;lineHeight:50px}div#sib_embed_signup .fake-label,div#sib_embed_signup .forms-builder-footer,div#sib_embed_signup .row,div#sib_embed_signup div.description{font-size:17px}div#sib_embed_signup .button{font-size:14px}div#sib_embed_signup input{font-size:13px}div#sib_embed_signup .sib-containter h1{color:#232323}div#sib_embed_signup .sib-container{color:#343434}div#sib_embed_signup .sib-container .button{color:#fff}//div#sib_embed_signup .sib-container{padding:40px 20px 20px}div#sib_embed_signup .header{padding:0 20px}div#sib_embed_signup h3.company-name{lineHeight:35px}//div#sib_embed_signup div.description{padding:0 20px 15px}//div#sib_embed_signup div.row{padding:10px 20px}div#sib_embed_signup input[type=text]{padding:10px 4px;width:100%!important;box-sizing:border-box}
+									</style>
+										<div id="sib_embed_signup">
+											<div class="forms-builder-wrapper" style="position:relative;margin-left: auto;margin-right: auto;">
+											<input id="sib_embed_signup_lang" type="hidden" value="en"> <input id="sib_embed_invalid_email_message" type="hidden" value="That email address is not valid. Please try again."> <input id="primary_type" name="primary_type" type="hidden" value="email">
+											<div id="sib_loading_gif_area" style="position: absolute;z-index: 9999;display: none;"><img src="https://my.sendinblue.com/public/theme/version4/assets/images/loader_sblue.gif"style="display: block;margin-left: auto;margin-right: auto;position: relative;top: 40%;">
+											</div>
+											<!-- Form -->
+<form action="https://my.sendinblue.com/users/subscribeembed/js_id/2vvoj/id/6"
+class="description" id="theform" name="theform" onsubmit="return false;">
+<input id="js_id" name="js_id" type="hidden" value="2vvoj"><input id="listid"
+name="listid" type="hidden" value="4"><input id="from_url" name="from_url"
+type="hidden" value="yes"><input id="hdn_email_txt" name="hdn_email_txt" type=
+"hidden" value="">
+
+<div class="sib-container rounded">
+<input id="req_hid" name="req_hid" style=
+"font-size: 13px; font-family: &quot;Trebuchet MS&quot;,Verdana,Tahoma,Geneva,sans-serif;"
+type="hidden" value="">
+
+<div class="view-messages" style="margin:5px 0;">
+</div>
+
+
+<div class="primary-group email-group forms-builder-group ui-sortable" style=
+"">
+<div class="row mandatory-email" style=
+"position: relative; font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); font-size: 17px;">
+<div class="lbl-tinyltr">
+Subscribe to our newsletter to access download.
+</div>
+<br>
+
+
+<div class="input-group">
+<input class="input-group-field" id="email" name="email" type="text" value="">
+</div>
+
+
+<div style="clear:both;">
+</div>
+<br>
+
+
+<div class="hidden-btns">
+<a class="btn move" href="#"></a><br>
+</div>
+</div>
+</div>
+
+
+<div class="byline" style=
+"font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); font-weight: bold; font-size: 16px; text-align: center; display: block;">
+<button class="button editable" type="submit"><strong>Unlock</strong></button>
+</div>
+
+
+<div style="clear:both;">
+</div>
+</div>
+</form>											
+										</div>
+									</div>
+									<script type="text/javascript">var sib_prefix = 'sib';var sib_dateformat = 'mm-dd-yyyy';
+									</script>
+									<script src='https://my.sendinblue.com/public/theme/version4/assets/js/src/subscribe-validate.js?v=1504161199'type='text/javascript'>
+									</script>
+								</div>
+							</div>
+						</div>						
+					</div>
+            		<div class="small-10 cell small-offset-1">
+              			<img src="assets/img/promo/christmassicons.gif" alt="Free Flat, Line, Glyph and Color Outline Christmas Icons">
+
+					</div>
+				</div>
+			</div>
+			<div class="stripe">
+	<div class="cont">
+		<div class="right">
+			<img data-src="assets/img/bundle.svg" alt="Bundle Icon">
+		</div>
+		<div class="txt align-self-middle">
+			<div class="stripe-text">
+				<h6>Get <strong>15k icons</strong> in bundle</h6>
+				<div class="link" style="padding: 0; margin: 0;">
+					<a href="/icon-bundle">VIEW BUNDLE</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+<div id="wr">
+	<div class="bluegrad">
+		<div class="grid-x freetext">
+			<div class="small-10 medium-5 cell margin-top margin-left small-offset-1 align-self-middle">
+				<h2>300 Free Icons of Those Icons samples</h2><br>
+				<p>Free icon collection to test the quality of our Line & Glyph icon set. Use them in any of your project under <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC with Attribution License <i class="ti-NewWindow" style="color: #303030;"></i></a> terms.</p><br>
+				<div class="link">
+					<a href="/freebies/#popup1">DOWNLOAD FREE</a>
+				</div>
+				<div id="popup1" class="overlay">
+					<div class="popup">
+						<a class="close" href="/freebies/#">
+							<span class="ti-close" style="font-family: 'ThoseIcons'; color: #303030;"></span>
+						</a>
+						<div class="content">
+							<h4>Unlock Download</h4><br>
+								<style>
+           div#sib_embed_signup .needsfilled input {
+             border-color: #B94A48 !important;
+             color: #B94A48 !important;}
+           div#sib_embed_signup .needsfilled {
+             color: #B94A48 !important;}
+           div#sib_embed_signup div.message_area {position: relative;padding: 10px 30px 10px 10px; margin: 0px 0px 10px 0px;font-size:14px; border-radius: 5px;-webkit-border-radius: 5px; -moz-border-radius: 5px;box-sizing: border-box;}
+           div#sib_embed_signup div.message_area button.close {position: absolute;right: 8px;top: 8px;color: inherit;background: 0 0;border: 0;padding: 0px;-webkit-appearance: none;cursor: pointer;font-weight: bold;font-size: 14px;}
+           .tipicon{cursor: pointer;padding: 3px 7px;font-size: 12px;font-weight: bold;line-height: 1.2;color: #fff;text-align: center;vertical-align: baseline;background-color: #999;border-radius: 10px;text-decoration: none;}
+           .tooltip{display: inline;position: absolute;left: 97%;}
+           .tooltip:hover:after{background: #333;background: rgba(0,0,0,.8);border-radius: 5px;color: #fff;content: attr(data-title);right: -2px;bottom: 26px;padding: 5px 15px;position: absolute;z-index: 98;width: 220px;}
+           .tooltip_small:hover:after{padding: 5px 5px; width: 150px;}
+           .tooltip:hover:before{border: solid;border-color: #333 transparent;border-width: 6px 6px 0 6px;bottom: 20px;content: "";left: 1px;position: absolute;z-index: 99;}
+           .sib-dropdown-menu.flag-icon {display: none;height: 100px;overflow-x: hidden;min-width: 160px;font-size: 13px;list-style: none;padding-left:14px;border:1px solid rgba(0,0,0,.15);background: white;border-radius: 4px;margin-top:10px;}
+           .sib-dropdown-menu.flag-icon li a{display: block;white-space: nowrap;text-decoration: none;color: rgba(0,0,0,0.87);box-shadow: none;}
+           .icon-arrow{display: inline-block;width:0px;height: 0px;margin-left:2px;margin-top:5px;border-top:4px dashed;border-right:4px solid transparent;border-left:4px solid transparent;vertical-align: text-top;}
+           .sib-dropdown-toggle.country-flg{display: inline-block;font-size: 13px;}
+        div#sib_embed_signup .sib-container h1 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+        div#sib_embed_signup h1.title {font-size: 45px;}
+        div#sib_embed_signup .sib-container .forms-builder-footer, div#sib_embed_signup .sib-container .description, div#sib_embed_signup .sib-container .fake-label, div#sib_embed_signup .sib-container .row, div#sib_embed_signup .sib-container #company-name{font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+        div#sib_embed_signup .forms-builder-footer,div#sib_embed_signup div.description,div#sib_embed_signup .fake-label,div#sib_embed_signup .row  {font-size: 17px;}
+        div#sib_embed_signup .sib-container .button {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+        div#sib_embed_signup .button{font-size: 14px;}
+        div#sib_embed_signup input {font-size: 13px;}
+        div#sib_embed_signup .sib-containter h1 {color: #232323;}
+        div#sib_embed_signup .sib-container {color: #343434;}
+        div#sib_embed_signup .sib-container .button{color: #ffffff;}
+        //div#sib_embed_signup .sib-container{ padding: 40px 20px 20px;}
+        div#sib_embed_signup .header{ padding: 0 20px;}
+        div#sib_embed_signup h1.title{ lineHeight: 50px;}
+        div#sib_embed_signup h3.company-name{ lineHeight: 35px;}
+        //div#sib_embed_signup div.description{ padding: 0 20px 15px;}
+        //div#sib_embed_signup div.row{ padding:10px 20px; }
+        div#sib_embed_signup input[type=text]{ padding: 10px 4px;width:100% !important;box-sizing: border-box;}
+        						</style>
+							<div id="sib_embed_signup">
+								<div class="forms-builder-wrapper" style="position:relative;margin-left: auto;margin-right: auto;">
+									<input id="sib_embed_signup_lang" type="hidden" value="en">
+									<input id="sib_embed_invalid_email_message" type="hidden" value="That email address is not valid. Please try again.">
+									<input id="primary_type" name="primary_type" type="hidden" value="email">
+									<div id="sib_loading_gif_area" style="position: absolute;z-index: 9999;display: none;">
+										<img src="https://my.sendinblue.com/public/theme/version4/assets/images/loader_sblue.gif"style="display: block;margin-left: auto;margin-right: auto;position: relative;top: 40%;">
+									</div>
+									<form action="https://my.sendinblue.com/users/subscribeembed/js_id/2vvoj/id/1" class="description" id="theform" name="theform" onsubmit="return false;">
+										<input id="js_id" name="js_id" type="hidden" value="2vvoj">
+										<input id="listid" name="listid" type="hidden" value="4">
+										<input id="from_url" name="from_url" type="hidden" value="yes">
+										<input id="hdn_email_txt" name="hdn_email_txt" type="hidden" value="">
+										<div class="sib-container rounded">
+											<input id="req_hid" name="req_hid" style="font-size: 13px; font-family: &quot;Trebuchet MS&quot;,Verdana,Tahoma,Geneva,sans-serif;" type="hidden" value="">
+											<div class="view-messages" style=" margin:5px 0;">
+											</div><!-- an email as primary -->
+											<div class="primary-group email-group forms-builder-group ui-sortable"style="">
+												<div class="row mandatory-email" style="position: relative; font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); font-size: 17px;">
+													<div class="lbl-tinyltr">
+														Subscribe to our newsletter to access download.
+													</div><br>
+													<div class="input-group">
+														<span class="input-group-label ti-Lock" style="font-family: 'ThoseIcons';"></span>
+														<input id="email" class="input-group-field" name="email" placeholder="Your Email*" type="text" value="">
+													</div>
+													<span class="small-text">*We use your personal data with confidance. <a href="/privacy">Read more</a> about our Privacy Policy.</span>
+													<div style="clear:both;">
+													</div><br>
+													<div class="hidden-btns">
+														<a class="btn move" href="#"><i class="fa fa-arrows"></i></a><br>
+													</div>
+												</div>
+											</div><!-- end of primary -->
+											<div class="byline" style="font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); font-weight: bold; font-size: 16px; text-align: center; display: block;">
+												<button class="button editable" data-editfield="subscribe"type="submit">
+													<strong>Unlock</strong>
+												</button>
+											</div>
+											<div style="clear:both;">
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+							<script type="text/javascript">
+								var sib_prefix = 'sib';
+								var sib_dateformat = 'mm-dd-yyyy';
+							</script>
+							<script src='https://my.sendinblue.com/public/theme/version4/assets/js/src/subscribe-validate.js?v=1504161199'type='text/javascript'>
+							</script>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="small-10 medium-5 cell small-offset-1 align-self-middle">
+				<img class="freeimg1" src="assets/img/freeicons.png" alt="Free Icons">
+				<img class="freeimg2" src="assets/img/freeiconsmobile.png" alt="Free Icons">
+			</div>
+		</div>
+	</div>
+</div>
+<div id="wr">
+<!-- Stripe -->
+<div class="stripe">
+	<div class="cont">
+		<div class="right">
+			<img src="assets/img/affiliate@2x.png" alt="Affiliate Program">
+		</div>
+		<div class="txt align-self-middle">
+			<div class="stripe-text">
+				<h6>Got a website or a blog? Start <strong>Earning</strong> with our</h6>
+				<div class="link" style="padding: 0; margin: 0;">
+					<a href="/affiliate">AFFILIATE PROGRAM</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	<div id="ColorOutline" class="wh">
+		<div class="grid-x freetext">
+			<div class="small-10 medium-5 cell small-offset-1 align-self-middle">
+				<img src="assets/img/free_color_outline_icons.png" alt="Free Color Outline Icons">
+			</div>
+			<div class="small-10 medium-5 cell margin-top margin-left small-offset-1 medium-offset-0 align-self-middle">
+				<h2>150 Free Colored Outline Icons' Sample </h2><br>
+				<p>Free selection for you to test the quality of our Colored Outline icon set. Use them in any of your project under <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC with Attribution License <i class="ti-NewWindow" style="color: #303030;"></i></a> terms.</p><br>
+				<div class="link">
+					<a href="/freebies#popup2">DOWNLOAD FREE</a>
+				</div>
+				<div id="popup2" class="overlay">
+					<div class="popup">
+						<a class="close" href="/freebies#">
+							<span class="ti-close" style="font-family: 'ThoseIcons'; color: #303030;"></span>
+						</a>
+						<div class="content">
+							<h4>Unlock Download</h4><br>
+								<style>
+           div#sib_embed_signup .needsfilled input {
+             border-color: #B94A48 !important;
+             color: #B94A48 !important;}
+           div#sib_embed_signup .needsfilled {
+             color: #B94A48 !important;}
+           div#sib_embed_signup div.message_area {position: relative;padding: 10px 30px 10px 10px; margin: 0px 0px 10px 0px;font-size:14px; border-radius: 5px;-webkit-border-radius: 5px; -moz-border-radius: 5px;box-sizing: border-box;}
+           div#sib_embed_signup div.message_area button.close {position: absolute;right: 8px;top: 8px;color: inherit;background: 0 0;border: 0;padding: 0px;-webkit-appearance: none;cursor: pointer;font-weight: bold;font-size: 14px;}
+           .tipicon{cursor: pointer;padding: 3px 7px;font-size: 12px;font-weight: bold;line-height: 1.2;color: #fff;text-align: center;vertical-align: baseline;background-color: #999;border-radius: 10px;text-decoration: none;}
+           .tooltip{display: inline;position: absolute;left: 97%;}
+           .tooltip:hover:after{background: #333;background: rgba(0,0,0,.8);border-radius: 5px;color: #fff;content: attr(data-title);right: -2px;bottom: 26px;padding: 5px 15px;position: absolute;z-index: 98;width: 220px;}
+           .tooltip_small:hover:after{padding: 5px 5px; width: 150px;}
+           .tooltip:hover:before{border: solid;border-color: #333 transparent;border-width: 6px 6px 0 6px;bottom: 20px;content: "";left: 1px;position: absolute;z-index: 99;}
+           .sib-dropdown-menu.flag-icon {display: none;height: 100px;overflow-x: hidden;min-width: 160px;font-size: 13px;list-style: none;padding-left:14px;border:1px solid rgba(0,0,0,.15);background: white;border-radius: 4px;margin-top:10px;}
+           .sib-dropdown-menu.flag-icon li a{display: block;white-space: nowrap;text-decoration: none;color: rgba(0,0,0,0.87);box-shadow: none;}
+           .icon-arrow{display: inline-block;width:0px;height: 0px;margin-left:2px;margin-top:5px;border-top:4px dashed;border-right:4px solid transparent;border-left:4px solid transparent;vertical-align: text-top;}
+           .sib-dropdown-toggle.country-flg{display: inline-block;font-size: 13px;}
+        div#sib_embed_signup .sib-container h1 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+        div#sib_embed_signup h1.title {font-size: 45px;}
+        div#sib_embed_signup .sib-container .forms-builder-footer, div#sib_embed_signup .sib-container .description, div#sib_embed_signup .sib-container .fake-label, div#sib_embed_signup .sib-container .row, div#sib_embed_signup .sib-container #company-name{font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+        div#sib_embed_signup .forms-builder-footer,div#sib_embed_signup div.description,div#sib_embed_signup .fake-label,div#sib_embed_signup .row  {font-size: 17px;}
+        div#sib_embed_signup .sib-container .button {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+        div#sib_embed_signup .button{font-size: 14px;}
+        div#sib_embed_signup input {font-size: 13px;}
+        div#sib_embed_signup .sib-containter h1 {color: #232323;}
+        div#sib_embed_signup .sib-container {color: #343434;}
+        div#sib_embed_signup .sib-container .button{color: #ffffff;}
+        //div#sib_embed_signup .sib-container{ padding: 40px 20px 20px;}
+        div#sib_embed_signup .header{ padding: 0 20px;}
+        div#sib_embed_signup h1.title{ lineHeight: 50px;}
+        div#sib_embed_signup h3.company-name{ lineHeight: 35px;}
+        //div#sib_embed_signup div.description{ padding: 0 20px 15px;}
+        //div#sib_embed_signup div.row{ padding:10px 20px; }
+        div#sib_embed_signup input[type=text]{ padding: 10px 4px;width:100% !important;box-sizing: border-box;}
+        						</style>
+							<div id="sib_embed_signup">
+								<div class="forms-builder-wrapper" style="position:relative;margin-left: auto;margin-right: auto;">
+									<input id="sib_embed_signup_lang" type="hidden" value="en">
+									<input id="sib_embed_invalid_email_message" type="hidden" value="That email address is not valid. Please try again.">
+									<input id="primary_type" name="primary_type" type="hidden" value="email">
+									<div id="sib_loading_gif_area" style="position: absolute;z-index: 9999;display: none;">
+										<img src="https://my.sendinblue.com/public/theme/version4/assets/images/loader_sblue.gif"style="display: block;margin-left: auto;margin-right: auto;position: relative;top: 40%;">
+									</div>
+									<form action="https://my.sendinblue.com/users/subscribeembed/js_id/2vvoj/id/4" class="description" id="theform" name="theform" onsubmit="return false;">
+										<input id="js_id" name="js_id" type="hidden" value="2vvoj">
+										<input id="listid" name="listid" type="hidden" value="4">
+										<input id="from_url" name="from_url" type="hidden" value="yes">
+										<input id="hdn_email_txt" name="hdn_email_txt" type="hidden" value="">
+										<div class="sib-container rounded">
+											<input id="req_hid" name="req_hid" style="font-size: 13px; font-family: &quot;Trebuchet MS&quot;,Verdana,Tahoma,Geneva,sans-serif;" type="hidden" value="">
+											<div class="view-messages" style=" margin:5px 0;">
+											</div><!-- an email as primary -->
+											<div class="primary-group email-group forms-builder-group ui-sortable"style="">
+												<div class="row mandatory-email" style="position: relative; font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); font-size: 17px;">
+													<div class="lbl-tinyltr">
+														Subscribe to our newsletter to access download.
+													</div><br>
+													<div class="input-group">
+														<span class="input-group-label ti-Lock" style="font-family: 'ThoseIcons';"></span>
+														<input id="email" class="input-group-field" name="email" placeholder="Your Email*" type="text" value="">
+													</div>
+													<span class="small-text">*We use your personal data with confidance. <a href="/privacy">Read more</a> about our Privacy Policy.</span>
+													<div style="clear:both;">
+													</div><br>
+													<div class="hidden-btns">
+														<a class="btn move" href="#"><i class="fa fa-arrows"></i></a><br>
+													</div>
+												</div>
+											</div><!-- end of primary -->
+											<div class="byline" style="font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); font-weight: bold; font-size: 16px; text-align: center; display: block;">
+												<button class="button editable" data-editfield="subscribe"type="submit">
+													<strong>Unlock</strong>
+												</button>
+											</div>
+											<div style="clear:both;">
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+							<script type="text/javascript">
+								var sib_prefix = 'sib';
+								var sib_dateformat = 'mm-dd-yyyy';
+							</script>
+							<script src='https://my.sendinblue.com/public/theme/version4/assets/js/src/subscribe-validate.js?v=1504161199'type='text/javascript'>
+							</script>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="wr">
+<!-- Stripe -->
+<div class="stripe">
+	<div class="cont">
+		<div class="right">
+			<img src="assets/img/icj.png" alt="IconJar Logo">
+		</div>
+		<div class="txt align-self-middle">
+			<div class="stripe-text">
+				<h6>Buy Those Icons and get <strong>20% off</strong> for IconJar App</h6>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="gray">
+	<div class="grid-x grid-padding-y">
+		<div class="small-10 medium-5 cell margin-top margin-left small-offset-1 align-self-middle">
+			<h2>260 Free Icons of Those Icons Social Media & Brand</h2><br>
+			<p>All well known Social Media Icons and Brand logos. Free to use for any of your Ui/Ux, Web or App design projects, including commercial use.</p>
+			<div class="link">
+					<a href="/freebies#popup3">DOWNLOAD FREE</a>
+				</div>
+				<div id="popup3" class="overlay">
+					<div class="popup">
+						<a class="close" href="/freebies#">
+							<span class="ti-close" style="font-family: 'ThoseIcons'; color: #303030;"></span>
+						</a>
+						<div class="content">
+							<h4>Unlock Download</h4><br>
+								<style>
+           div#sib_embed_signup .needsfilled input {
+             border-color: #B94A48 !important;
+             color: #B94A48 !important;}
+           div#sib_embed_signup .needsfilled {
+             color: #B94A48 !important;}
+           div#sib_embed_signup div.message_area {position: relative;padding: 10px 30px 10px 10px; margin: 0px 0px 10px 0px;font-size:14px; border-radius: 5px;-webkit-border-radius: 5px; -moz-border-radius: 5px;box-sizing: border-box;}
+           div#sib_embed_signup div.message_area button.close {position: absolute;right: 8px;top: 8px;color: inherit;background: 0 0;border: 0;padding: 0px;-webkit-appearance: none;cursor: pointer;font-weight: bold;font-size: 14px;}
+           .tipicon{cursor: pointer;padding: 3px 7px;font-size: 12px;font-weight: bold;line-height: 1.2;color: #fff;text-align: center;vertical-align: baseline;background-color: #999;border-radius: 10px;text-decoration: none;}
+           .tooltip{display: inline;position: absolute;left: 97%;}
+           .tooltip:hover:after{background: #333;background: rgba(0,0,0,.8);border-radius: 5px;color: #fff;content: attr(data-title);right: -2px;bottom: 26px;padding: 5px 15px;position: absolute;z-index: 98;width: 220px;}
+           .tooltip_small:hover:after{padding: 5px 5px; width: 150px;}
+           .tooltip:hover:before{border: solid;border-color: #333 transparent;border-width: 6px 6px 0 6px;bottom: 20px;content: "";left: 1px;position: absolute;z-index: 99;}
+           .sib-dropdown-menu.flag-icon {display: none;height: 100px;overflow-x: hidden;min-width: 160px;font-size: 13px;list-style: none;padding-left:14px;border:1px solid rgba(0,0,0,.15);background: white;border-radius: 4px;margin-top:10px;}
+           .sib-dropdown-menu.flag-icon li a{display: block;white-space: nowrap;text-decoration: none;color: rgba(0,0,0,0.87);box-shadow: none;}
+           .icon-arrow{display: inline-block;width:0px;height: 0px;margin-left:2px;margin-top:5px;border-top:4px dashed;border-right:4px solid transparent;border-left:4px solid transparent;vertical-align: text-top;}
+           .sib-dropdown-toggle.country-flg{display: inline-block;font-size: 13px;}
+        div#sib_embed_signup .sib-container h1 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+        div#sib_embed_signup h1.title {font-size: 45px;}
+        div#sib_embed_signup .sib-container .forms-builder-footer, div#sib_embed_signup .sib-container .description, div#sib_embed_signup .sib-container .fake-label, div#sib_embed_signup .sib-container .row, div#sib_embed_signup .sib-container #company-name{font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+        div#sib_embed_signup .forms-builder-footer,div#sib_embed_signup div.description,div#sib_embed_signup .fake-label,div#sib_embed_signup .row  {font-size: 17px;}
+        div#sib_embed_signup .sib-container .button {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+        div#sib_embed_signup .button{font-size: 14px;}
+        div#sib_embed_signup input {font-size: 13px;}
+        div#sib_embed_signup .sib-containter h1 {color: #232323;}
+        div#sib_embed_signup .sib-container {color: #343434;}
+        div#sib_embed_signup .sib-container .button{color: #ffffff;}
+        //div#sib_embed_signup .sib-container{ padding: 40px 20px 20px;}
+        div#sib_embed_signup .header{ padding: 0 20px;}
+        div#sib_embed_signup h1.title{ lineHeight: 50px;}
+        div#sib_embed_signup h3.company-name{ lineHeight: 35px;}
+        //div#sib_embed_signup div.description{ padding: 0 20px 15px;}
+        //div#sib_embed_signup div.row{ padding:10px 20px; }
+        div#sib_embed_signup input[type=text]{ padding: 10px 4px;width:100% !important;box-sizing: border-box;}
+        						</style>
+							<div id="sib_embed_signup">
+								<div class="forms-builder-wrapper" style="position:relative;margin-left: auto;margin-right: auto;">
+									<input id="sib_embed_signup_lang" type="hidden" value="en">
+									<input id="sib_embed_invalid_email_message" type="hidden" value="That email address is not valid. Please try again.">
+									<input id="primary_type" name="primary_type" type="hidden" value="email">
+									<div id="sib_loading_gif_area" style="position: absolute;z-index: 9999;display: none;">
+										<img src="https://my.sendinblue.com/public/theme/version4/assets/images/loader_sblue.gif"style="display: block;margin-left: auto;margin-right: auto;position: relative;top: 40%;">
+									</div>
+									<form action="https://my.sendinblue.com/users/subscribeembed/js_id/2vvoj/id/5" class="description" id="theform" name="theform" onsubmit="return false;">
+										<input id="js_id" name="js_id" type="hidden" value="2vvoj">
+										<input id="listid" name="listid" type="hidden" value="4">
+										<input id="from_url" name="from_url" type="hidden" value="yes">
+										<input id="hdn_email_txt" name="hdn_email_txt" type="hidden" value="">
+										<div class="sib-container rounded">
+											<input id="req_hid" name="req_hid" style="font-size: 13px; font-family: &quot;Trebuchet MS&quot;,Verdana,Tahoma,Geneva,sans-serif;" type="hidden" value="">
+											<div class="view-messages" style=" margin:5px 0;">
+											</div><!-- an email as primary -->
+											<div class="primary-group email-group forms-builder-group ui-sortable"style="">
+												<div class="row mandatory-email" style="position: relative; font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); font-size: 17px;">
+													<div class="lbl-tinyltr">
+														Subscribe to our newsletter to access download.
+													</div><br>
+													<div class="input-group">
+														<span class="input-group-label ti-Lock" style="font-family: 'ThoseIcons';"></span>
+														<input id="email" class="input-group-field" name="email" placeholder="Your Email*" type="text" value="">
+													</div>
+													<span class="small-text">*We use your personal data with confidance. <a href="/privacy">Read more</a> about our Privacy Policy.</span>
+													<div style="clear:both;">
+													</div><br>
+													<div class="hidden-btns">
+														<a class="btn move" href="#"><i class="fa fa-arrows"></i></a><br>
+													</div>
+												</div>
+											</div><!-- end of primary -->
+											<div class="byline" style="font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); font-weight: bold; font-size: 16px; text-align: center; display: block;">
+												<button class="button editable" data-editfield="subscribe"type="submit">
+													<strong>Unlock</strong>
+												</button>
+											</div>
+											<div style="clear:both;">
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+							<script type="text/javascript">
+								var sib_prefix = 'sib';
+								var sib_dateformat = 'mm-dd-yyyy';
+							</script>
+							<script src='https://my.sendinblue.com/public/theme/version4/assets/js/src/subscribe-validate.js?v=1504161199'type='text/javascript'>
+							</script>
+						</div>
+					</div>
+				</div>
+		</div>
+		<div class="small-10 small-offset-1 align-self-middle text-center">
+			<img class="smb" src="assets/img/socialmediaicons.png" alt="Social Media $ Brands">
+		</div>
+	</div>
+</div>
+</div>
+
+<div id="snackbar">
+	<h6><strong><span class="ti-Purchase" style="font-size:24px; vertical-align:middle;"></span> 16k Icon Sale</strong></h6>
+	<p>Use <strong>bundle</strong><br> as coupon for 30% off!
+	</p>
+	<div class="hbt">
+		<a class="button small" href="/icon-bundle">
+		<strong>GET NOW</strong>
+		</a>
+	</div>
+	<div class="btn-close" onclick="popout()">
+  		<i class="ti-close" style="font-family: 'ThoseIcons'; vertical-align:middle;"></i>
+	</div>
+</div>
+
+<!-- Footer -->
+<footer class="footer text-center"><nav><ul class="menu align-center"><li><a href="/privacy">Privacy Policy</a></li><li><a href="/about">About Us</a></li><li><a href="/affiliate">Affiliate Program</a></li><li><a href="mailto:pocike88@gmail.com?Subject=Hello%20Those%20Icons">Contact Us</a></li></ul></nav><p>© 2017 - 2019 Those Icons - All rights reserved.</p></footer>
+<!-- End Footer -->
+</div>
+<script src="assets/js/app.js"></script>
+<script src="https://cdn.paddle.com/paddle/paddle.js"></script>
+<script type="text/javascript">
+	Paddle.Setup({
+	vendor: 16705});
+</script>
+<script type="text/javascript">
+	window.$crisp=[];window.CRISP_WEBSITE_ID="72c917ec-b3a6-4ba2-9ce9-a1378aee5f69";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();
+</script>
+<script type="text/javascript">
+    function popin() {
+    var x = document.getElementById("snackbar")
+    x.className = "show";
+}
+	function popout() {
+    var x = document.getElementById("snackbar")
+    x.className = "show out";
+    setTimeout(function(){ x.className = x.className.replace("show out", ""); }, 200);
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+body{
+	background: skyblue;
+	text-align: center;
+}
+.main{
+	background:radial-gradient(lightgreen,white);
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: space-between;
+	padding:4%;
+	width:92%;
+	border-radius: 4%;
+
+}
+.sub{
+
+  background:linear-gradient(orange,white,lightgreen);
+  width:90%;
+  margin-bottom: 5%;
+  padding:2%;
+  box-shadow: 1px 1px 1px 1px;
+  border-radius:5%;
+  
+}
+.sub1{
+ background:linear-gradient(orange,white,lightgreen);width:40%;
+margin-left:5%;
+margin-bottom: 2%;
+padding-left: 2%;
+box-shadow: 1px 1px 1px 1px;
+ border-radius:2%;
+}
+input,select{
+	width:90%;
+	margin:1%;
+
+}
+button{
+	width:12%;
+	
+}
+.main()
+{
+	background: violet;
+	width: 90%;
+	justify-content:space-around;
+	margin: 4%;
+	height=40%;
+}   
+
+.profile{
+	color:red;
+}
+
+
